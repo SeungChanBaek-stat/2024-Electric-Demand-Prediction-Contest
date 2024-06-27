@@ -1,1 +1,7 @@
 /data
+/etcs
+/eda/cleaned
+/eda/uncleaned
+/eda/ewma_temp
+/submission
+/model_param
